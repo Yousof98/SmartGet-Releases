@@ -2,8 +2,8 @@
   "version": "1.0.5",
   "releaseDate": "2026-10-26T14:12:00Z",
   "downloadUrl": "https://github.com/Yousof98/SmartGet-Releases/releases/download/v1.0.5/SmartGet.exe",
-  "sha256": "27b54e8b2f4bb9c1d6ba7b13439431df2c2095d267ff60f64f7f80acf887e2be",
-  "fileSizeBytes": 69789965,
+  "sha256": "2b278ba1d7064b216bba462d0496e370fbaef041f441a0a20e6fdc69ab6ff53a",
+  "fileSizeBytes": 69789975,
   "titleAr": "تحديث جديد للمُحمّل الذكي v1.0.5",
   "changelogAr": "• دعم تحميل المجلدات المضغوطة بالبث المباشر (Chunked Streams) من FileBrowser وسيرفرات الويب.\n• إصلاح مشكلة «الملف المضغوط تالف أو ناقص» عند التحميل المباشر.\n• دعم الروابط المنتهية بشرطة مائلة.\n• إضافة ميزة التحديث التلقائي الذكي وتثبيته بنقرة واحدة.",
   "isCritical": false
